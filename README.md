@@ -10,7 +10,7 @@ Professor at [Federal Institute of Education, Science, and Technology of Minas G
 
 * 🌍  I'm based in Vitória, Brazil
 * ✉️  You can contact me at [denilsonjms@gmail.com](mailto:denilsonjms@gmail.com)
-* 📈  I have Bachelor's Degree in Mathematics and Master's degree in [Applied Statistics and Biometry](https://ppestbio.ufv.br/) from [Federal University of Viçosa/Brazil](https://ufv.br/)
+* 📈  I have Bachelor's Degree in [Mathematics](http://www.dma.ufv.br/) and Master's Degree in [Applied Statistics and Biometry](https://ppestbio.ufv.br/) from [Federal University of Viçosa/Brazil](https://ufv.br/)
 * 🧠  I have experience in Data analytics in education and R programming language
 * ✈️  I love to travel and explore new cultures
 
