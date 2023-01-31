@@ -2,7 +2,7 @@
 Hi 👋 My name is Denilson Soares
 ==========================
 
-Data Analyst Enthusiast extremely passionate about Education 📈🧠📚
+I'm a Data Analyst Enthusiast extremely passionate about Education 📈🧠📚
 
 -----------------------------
 
