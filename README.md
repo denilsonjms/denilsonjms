@@ -14,8 +14,18 @@ Professor at [Federal Institute of Education, Science, and Technology of Minas G
 * 🧠  I have experience in Data analytics in education and R programming language
 * ✈️  I love to travel and explore new cultures
 
+### Researcher Profile
+
+<p align="left">
+<a href="http://lattes.cnpq.br/1813099481556666" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Lattes-3152A0?style=for-the-badge&logo=Electron&logoColor=white" width="36" height="36" alt="Javascript" /></a>
+<a href="https://orcid.org/0000-0003-3075-3532" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" width="36" height="36" alt="Typescript" /></a>
+<a href="https://www.researchgate.net/scientific-contributions/Denilson-Junio-Marques-Soares-2164178417" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" width="36" height="36" alt="C" /></a>
+<a href="https://scholar.google.com.br/citations?user=AyT6odIAAAAJ&hl=pt-BR" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" width="36" height="36" /></a>
+</p>
+
 
 ### Socials
 
-<p align="left"> <a href="https://www.instagram.com/denilsonjms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.github.com/denilsonjms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://br.linkedin.com/in/denilson-junio-marques-soares-443826230" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a  href="https://www.youtube.com/@denilsonjuniomarquessoares2018" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.instagram.com/denilsonjms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.github.com/denilsonjms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://br.linkedin.com/in/denilson-junio-marques-soares-443826230" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a  href="https://www.youtube.com/@denilsonjuniomarquessoares2018" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+</p>
 
