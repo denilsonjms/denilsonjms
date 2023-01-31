@@ -6,7 +6,7 @@ I'm a Data Analyst Enthusiast extremely passionate about Education 📈🧠📚
 
 -----------------------------
 
-Professor at [Federal Institute of Education, Science, and Technology of Minas Gerais, Piumhi Campus, Brazil](https://ifmg.edu.br/portal/), interested in research about Education, Measurement in Education and Evidence-Based Policy. Currently, I'm a Ph.D. student at [Federal University of Espírito Santo/Brazil](https://www.ufes.br/).
+Professor at [Federal Institute of Education, Science, and Technology of Minas Gerais, Piumhi Campus, Brazil](https://ifmg.edu.br/portal/), interested in research about Education, Measurement in Education and Evidence-Based Policy. Currently, I'm a Ph.D. student at [Federal University of Espírito Santo/Brazil](https://www.ufes.br/) and Researcher at the Institute of Research in Education and Physical Education - [Proteoria/Brazil](https://www.proteoria.org/).
 
 * 🌍  I'm based in Vitória, Brazil
 * ✉️  You can contact me at [denilsonjms@gmail.com](mailto:denilsonjms@gmail.com)
