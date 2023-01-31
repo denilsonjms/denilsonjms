@@ -21,7 +21,7 @@ Professor at [Federal Institute of Education, Science, and Technology of Minas G
 <a href="https://orcid.org/0000-0003-3075-3532" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" width="56" height="36" alt="Typescript" /></a>
 <a href="https://www.researchgate.net/scientific-contributions/Denilson-Junio-Marques-Soares-2164178417" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" width="66" height="36" alt="C" /></a>
 <a href="https://scholar.google.com.br/citations?user=AyT6odIAAAAJ&hl=pt-BR" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" width="66" height="36" /></a>
-<a href="https://independent.academia.edu/DenilsonJunioMarquesSoares" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Academia-ggg?style=for-the-badge&logo=academia&logoColor=black" width="66" height="36" /></a>
+<a href="https://independent.academia.edu/DenilsonJunioMarquesSoares" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Academia-f0f0f0?style=for-the-badge&logo=academia&logoColor=black" width="66" height="36" /></a>
 </p>
 
 
