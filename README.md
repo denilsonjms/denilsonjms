@@ -6,7 +6,7 @@ I'm a Data Analyst Enthusiast extremely passionate about Education 📈🧠📚
 
 -----------------------------
 
-Professor at [Federal Institute of Education, Science, and Technology of Minas Gerais, Piumhi Campus, Brazil](https://ifmg.edu.br/portal/), interested in research about Education, Psychometrics, Measurement in Education and Evidence-Based Policy. Currently, I'm a Professor of Mathematics and Statistics at the [Federal Institute of Minas Gerais/Brazil](https://www.ifmg.edu.br/);
+Professor of Mathematics and Statistics at [Federal Institute of Education, Science, and Technology of Minas Gerais, Ouro Preto Campus, Brazil](https://ifmg.edu.br/portal/), interested in research about Education, Psychometrics, Measurement in Education and Evidence-Based Policy.
 
 * 🌍  I'm based in Ouro Preto, Brazil
 * ✉️  You can contact me at [denilsonjms@gmail.com](mailto:denilsonjms@gmail.com)
